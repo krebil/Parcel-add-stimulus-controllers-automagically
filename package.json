@@ -1,0 +1,20 @@
+{
+  "name": "stimulus-automagic-test",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/js/index.ts",
+  "default": "dist/js/index.js",
+  "scripts": {
+    "watch-parcel": "npx parcel watch",
+    "build-parcel": "npx parcel build"
+  },
+  "devDependencies": {
+    "@parcel/resolver-glob": "^2.8.3",
+    "parcel": "^2.8.3"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hotwired/stimulus": "^3.2.1"
+  }
+}
