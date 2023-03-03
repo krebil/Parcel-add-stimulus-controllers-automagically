@@ -1,0 +1,1 @@
+# stimulus-automagic-test
