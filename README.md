@@ -28,7 +28,7 @@ import the folder where your controllers are into your js file.
 Then import **definitionsFromContext** and use it like in the **webpack-helpers** repo.
 
 ```
-import {definitionsFromContext} from "parcel-stimulus-automagic";
+import {definitionsFromContext} from "@krebil/parcel-stimulus-automagic";
 
 var f = definitionsFromContext(files)
 
