@@ -17,6 +17,10 @@ Install it and add it to your parcel configuration file (**.parcelrc**).
 }
 ```
 
+## Installation
+```
+npm install @krebil/parcel-stimulus-automagic
+```
 ## Usage
 import the folder where your controllers are into your js file.
 `import * as controllers from "./controllers/**/*.ts"` or `import * as controllers from "./controllers/**/*.js"`

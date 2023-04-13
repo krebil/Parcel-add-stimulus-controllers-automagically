@@ -1,5 +1,5 @@
 {
-  "name": "stimulus-automagic-test",
+  "name": "@krebil/parcel-stimulus-automagic",
   "version": "1.0.0",
   "description": "",
   "source": "src/js/index.ts",
@@ -12,8 +12,9 @@
     "@parcel/resolver-glob": "^2.8.3",
     "parcel": "^2.8.3"
   },
-  "author": "",
+  "author": "Tobias Mønster",
   "license": "ISC",
+  "repository": "https://github.com/krebil/Parcel-add-stimulus-controllers-automagically",
   "dependencies": {
     "@hotwired/stimulus": "^3.2.1"
   }
