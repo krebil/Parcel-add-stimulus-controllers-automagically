@@ -30,7 +30,7 @@ Then import **definitionsFromContext** and use it like in the **webpack-helpers*
 ```
 import {definitionsFromContext} from "@krebil/parcel-stimulus-automagic";
 
-var f = definitionsFromContext(files)
+var f = definitionsFromContext(controllers)
 
 window.Stimulus = Application.start() 
 
